@@ -1,0 +1,6 @@
+Revision history for Perl extension npc::feed::collector.
+
+0.01  Mon Jul 15 20:56:27 2013
+	- original version; created by h2xs 1.23 with options
+		-AX -n npc::feed::collector
+

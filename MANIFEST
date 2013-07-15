@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/npc-feed-collector.t
+lib/npc/feed/collector.pm
